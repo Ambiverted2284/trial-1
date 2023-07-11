@@ -4,3 +4,35 @@ body{
 .text-primary{
     color: #E55473;
 }
+.btn-primary{
+    background-color: #E55473;
+    color: white;
+    border-radius: 5px;
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    background-color: #ffc3d0;
+    justify-content: center;
+}
+.banner-text{
+    width: 500px;
+    padding-right: 150px;
+}
+.banner-img{
+    width: 635px;
+    height: 800px;
+}
+.banner-heading{
+   font-weight: 900;
+}
+.banner-description{
+    font-weight: 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn-shop{
+    width: 120px ;
+    height: 40px;
+}
